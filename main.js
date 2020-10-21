@@ -6,7 +6,6 @@
 
 // Stampo i numeri da 1 a 100
 for (var i = 1; i <= 100; i++) {
-
 // // al posto dei multipli di 3, deve stampare "Fizz"
 if ((i % 3 == 0) && (i % 5 == 0)){
                console.log("FizzBuzz");
